@@ -1,8 +1,10 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Pages
-    url: /example-pages/
+  - title: Members
+    collection: members
   - title: Resources
-    resource_room: true
+    collection: resources
+  - title: Programs
+    collection: programs
+  - title: Contacts
+    url: /contacts/
