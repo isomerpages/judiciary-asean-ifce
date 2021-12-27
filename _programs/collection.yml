@@ -2,5 +2,5 @@ collections:
   programs:
     output: true
     order:
-      - Past Programmes.md
       - Upcoming Programmes.md
+      - Past Programmes.md
