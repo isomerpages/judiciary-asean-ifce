@@ -2,4 +2,5 @@ collections:
   members:
     output: true
     order:
+      - Application Form.md
       - Current Network Members.md
