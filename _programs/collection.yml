@@ -1,4 +1,5 @@
 collections:
   programs:
     output: true
-    order: []
+    order:
+      - Upcoming Programmes.md
