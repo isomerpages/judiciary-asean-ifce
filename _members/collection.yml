@@ -1,4 +1,5 @@
 collections:
   members:
     output: true
-    order: []
+    order:
+      - Current Network Members.md
