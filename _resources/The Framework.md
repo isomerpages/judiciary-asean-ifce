@@ -17,3 +17,12 @@ The main enhancements to the new edition are the inclusion of assessment stateme
 [Laos Edition](/files/ifce/Laos-International-Framework-3rd-Edition.pdf)
 [Thai Edition](/files/ifce/Thai-International-Framework-3rd-Edition.pdf)
 
+---
+
+#### **The International Framework for Judicial Support Excellence**
+
+The Consortium has recently developed a version of the Framework aimed at Judicial Support Organisations, entitled the International Framework for Judicial Support Excellence (‘IFJSE’). Consortium members in the Affiliated Judicial Institutions membership category may wish to consider applying the IFJSE to their own organisations, particularly when courts in the same jurisdiction are utilising the International Framework for Court Excellence. 
+
+Judicial support organisations are those bodies that provide broad support services to courts as well as specific services such as research, performance management, records management, education, technology, finance, asset or personnel services. These types of organisations play a significant role in supporting the administration of justice and invariably have indirect community accountability as well as direct accountability to their ‘client’ courts, judicial officers and court administrators.
+
+The IFJSE is based on the IFCE and follows the same structure as the ‘Thinking of Implementing the International Framework for Court Excellence’ publication. However, the Self-Assessment Questionnaire in the IFJSE is substantially different and is not designed to be used by courts or tribunals. New IFJSE checklists have been added for specific service delivery functions such as education, research, information technology, finance, asset management, human resources and labour relations. The purpose of the IFJSE, like the IFCE, is to assist organisations identify areas of their operations that may require improvement and to develop improvement plans to guide implementing change. The IFJSE is available for download in the link below. 
