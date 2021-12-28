@@ -12,3 +12,7 @@ The International Framework for Court Excellence is a quality management system 
 The main enhancements to the new edition are the inclusion of assessment statements relating to ethics, conduct, technology, risk management, security, data integrity, ADR and problem solving approaches. The self-assessment process and the scoring methodology have been simplified. We would like to thank the Abu Dhabi Judicial Department, the Indonesia Judiciary, and the UNDP for providing translations for the latest edition of the framework, which can be downloaded below.
 
 [Arabic Edition](/files/ifce/International-Framework-3rd-Edition-Arabic.pdf)
+[Indonesian Edition](/files/ifce/Indonesian-International-Framework-3rd-Edition.pdf)
+[English Edition](/files/ifce/English-International-Framework-3rd-Edition.pdf)
+[Laos Edition](/files/ifce/Laos-International-Framework-3rd-Edition.pdf)
+[Thai Edition](/files/ifce/Thai-International-Framework-3rd-Edition.pdf)
