@@ -3,4 +3,15 @@ title: Self Assessment
 permalink: /resources/self-assessment
 description: ""
 ---
-on it
+#### **Self-Assessment**
+---
+
+The Court Excellence Self-Assessment Questionnaire is a self-administered instrument that can be used to determine what areas of court excellence must be addressed in the short-term and what areas require intermediate or long-term planning for quality improvement. It is the first necessary step for a court toward developing a plan to close the gap between “what is” and “what can be” as prescribed by the Framework. 
+
+The Court Excellence Self-Assessment Questionnaire is a self-administered instrument that can be used to determine what areas of court excellence must be addressed in the short-term and what areas require intermediate or long-term planning for quality improvement. It is the first necessary step for a court toward developing a plan to close the gap between “what is” and “what can be” as prescribed by the Framework. 
+
+1. Self-Assessment Checklist (PDF)
+2. Self-Assessment Scoring Guidelines (PDF)
+3. Self-Assessment Scoring Worksheet (PDF)
+4. Automatic Score Calculator (Excel Spreadsheet).
+This tool allows for the generation of scores received via the Court Excellence Self-Assessment Questionnaire.
