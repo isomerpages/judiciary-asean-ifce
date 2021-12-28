@@ -3,7 +3,7 @@ title: The Framework
 permalink: /resources/the-framework
 description: ""
 ---
-### The Third Edition of the International Framework for Court Excellence (May 2020)
+#### The Third Edition of the International Framework for Court Excellence (May 2020)
 
 The International Framework for Court Excellence is a quality management system designed to help courts to improve their performance. It includes universal core values, seven areas of court excellence aligned with those values, as well as concepts, case studies, and tools by which courts worldwide can voluntarily assess and improve the quality of justice and court administration. 
 
