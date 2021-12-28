@@ -13,5 +13,6 @@ The Court Excellence Self-Assessment Questionnaire is a self-administered instru
 1. Self-Assessment Checklist (PDF)
 2. Self-Assessment Scoring Guidelines (PDF)
 3. Self-Assessment Scoring Worksheet (PDF)
-4. Automatic Score Calculator (Excel Spreadsheet).
-This tool allows for the generation of scores received via the Court Excellence Self-Assessment Questionnaire.
+4. 
+~~Automatic Score Calculator (Excel Spreadsheet).
+This tool allows for the generation of scores received via the Court Excellence Self-Assessment Questionnaire.~~
