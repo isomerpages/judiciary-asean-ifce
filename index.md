@@ -9,7 +9,7 @@ sections:
   - hero:
       title: " Hero Title "
       subtitle: Hero subtitle
-      background: /images/aseanbanner2.jfif
+      background: /images/ASEANBANNER-Resized.jfif
       button: Contact Us
       url: /contact-us/
       key_highlights:
