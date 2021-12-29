@@ -13,5 +13,3 @@ The Membership List is reviewed annually by the Executive Committee to ensure th
 To become a member, organisations should email the Executive Committee via the ICCE Secretariat at ifce@aija.org.au with the filled application form. The application form can be downloaded below.
 
 
-
-1. 
