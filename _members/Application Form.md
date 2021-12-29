@@ -20,5 +20,7 @@ To become a member, organisations should email the Executive Committee via the I
 
 | ![Alt text for image on Isomer site](/images/icce-founding-members/aija.jpg) | ![Alt text for image on Isomer site](/images/icce-founding-members/ncsc.jpg)| ![Alt text for image on Isomer site](/images/icce-founding-members/fjc.jpg) | ![Alt text for image on Isomer site](/images/icce-founding-members/statecourts.jpg)|
 | -------- | -------- | -------- | ---------|
-| Text     | Text     | Text     | t |
-
+| **Mr. Laurence Glanfield** |**Daniel J. Hall** |**Beth Wiggins**  | **Jennifer Marie**|
+| Deputy President | Vice President, Court Services Division | Research Division |   Deputy Chief District Judge/Registrar State Courts|
+|Australasian Institute of Judicial Administration | National Center for State Courts 707 Seventeenth Street, Suite 2900 Denver, Colorado 80202 (303) 308-4300 |1 Columbus Circle, NE Washington, DC 20002-8003 (202) 502-4160 | 1 Havelock Square Singapore 059724 (65) 6435 5859 |
+| l.glanfield@hotmail.com | djhall@ncsc.org | bwiggins@fjc.gov | jennifer_MARIE@statecourts.gov.sg |
