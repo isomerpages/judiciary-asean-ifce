@@ -12,10 +12,10 @@ The International Consortium has developed a number of tools and resources to as
 ---
 
 #### **The 3 Basic Steps to Implementing the Framework**
-
+![Self Assesment](/images/implementing-ifce/1-Self-Evaluate.jpg)
 1. Self Assesment
-2. Analysis
-3. Improvement Planning and Implementation
+![Analysis](/images/implementing-ifce/2-Analysis.jpg)2. Analysis
+![Improvement Planning and Implementation](/images/implementing-ifce/3-Improvement-Planning-and-Implementation.jpg)3. Improvement Planning and Implementation
 
 #### **Model Agenda**
 
