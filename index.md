@@ -31,8 +31,4 @@ sections:
         improve their performance.
       button: LEARN MORE
       url: https://www.courtexcellence.com/resources/self-assessment
-  - resources:
-      title: Media
-      subtitle: Learn more
-      button: View More
 ---
