@@ -31,4 +31,10 @@ sections:
         improve their performance.
       button: LEARN MORE
       url: https://www.courtexcellence.com/resources/self-assessment
+  - infobar:
+      title: Resources
+      description: The resources needed to implement the various frameworks can be
+        found here.
+      button: LEARN MORE
+      url: https://www.courtexcellence.com/resources
 ---
