@@ -13,13 +13,15 @@ sections:
       button: Contact Us
       url: /contact-us/
   - infobar:
-      title: ASEAN-IFCE Resource Network
-      subtitle: Subtitle
+      title: ICCE
       description: About a sentence worth of description here
       url: /faq/
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
+      title: Framework
+      description: Infobar description
+      button: Button Text
+  - infobar:
+      title: Court Excellence Self-Assessment Questionaire
       description: Infobar description
       button: Button Text
   - resources:
