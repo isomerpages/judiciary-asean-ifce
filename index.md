@@ -12,24 +12,16 @@ sections:
       background: /images/ASEANBANNER-Resized.jfif
       button: Contact Us
       url: /contact-us/
-  - infopic:
-      title: ICCE
-      description: Infopic description
-      alt: Image alt text
-  - infopic:
-      title: Framework
-      description: Infopic description
-      alt: Image alt text
-  - infopic:
-      title: Court Excellence Self-Assessment Questionaire
-      description: Infopic description
-      alt: Image alt text
   - infobar:
       title: ASEAN-IFCE Resource Network
       subtitle: Subtitle
       description: About a sentence worth of description here
-      button: Button text
       url: /faq/
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
   - resources:
       title: Media
       subtitle: Learn more
