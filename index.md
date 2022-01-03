@@ -14,8 +14,8 @@ sections:
       url: /contact-us/
   - infobar:
       title: ICCE
-      description: "The ICCE is a acronym for the International Consortium of Court
-        Excellence. "
+      description: An International Consortium consisting of groups and organisations
+        from Europe, Asia, Australia, and the United States
       url: /faq/
   - infobar:
       title: Framework
