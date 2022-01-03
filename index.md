@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
       title: ASEAN-IFCE
@@ -14,7 +14,8 @@ sections:
       url: /contact-us/
   - infobar:
       title: ICCE
-      description: About a sentence worth of description here
+      description: "The ICCE is a acronym for the International Consortium of Court
+        Excellence. "
       url: /faq/
   - infobar:
       title: Framework
