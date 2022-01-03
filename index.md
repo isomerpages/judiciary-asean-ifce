@@ -20,7 +20,8 @@ sections:
       button: Find out more
   - infobar:
       title: Framework
-      description: Infobar description
+      description: "Two quality management systems designed to enable courts worldwide
+        to achieve excellence "
       button: Button Text
   - infobar:
       title: Court Excellence Self-Assessment Questionaire
