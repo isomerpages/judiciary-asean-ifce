@@ -13,19 +13,16 @@ sections:
       button: Contact Us
       url: /contact-us/
   - infopic:
-      title: Infopic Title
+      title: ICCE
       description: Infopic description
-      button: Button Text
       alt: Image alt text
   - infopic:
-      title: Infopic Title
+      title: Framework
       description: Infopic description
-      button: Button Text
       alt: Image alt text
   - infopic:
-      title: Infopic Title
+      title: Court Excellence Self-Assessment Questionaire
       description: Infopic description
-      button: Button Text
       alt: Image alt text
   - infobar:
       title: ASEAN-IFCE Resource Network
