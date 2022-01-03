@@ -17,12 +17,13 @@ sections:
       description: An International Consortium consisting of groups and organisations
         from Europe, Asia, Australia, and the United States
       url: https://www.courtexcellence.com/
-      button: Find out more
+      button: LEARN MORE
   - infobar:
       title: Framework
       description: "Two quality management systems designed to enable courts worldwide
         to achieve excellence "
-      button: Button Text
+      button: LEARN MORE
+      url: https://www.courtexcellence.com/resources/the-framework
   - infobar:
       title: Court Excellence Self-Assessment Questionaire
       description: Infobar description
