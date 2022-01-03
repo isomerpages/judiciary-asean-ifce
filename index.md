@@ -7,13 +7,13 @@ permalink: /
 notification: Here's a notification bar you can use!
 sections:
   - hero:
-      title: " Hero Title "
-      subtitle: Hero subtitle
+      title: ASEAN-IFCE
+      subtitle: The official website of the  ASEAN-IFCE Resource Network
       background: /images/ASEANBANNER-Resized.jfif
       button: Contact Us
       url: /contact-us/
   - infobar:
-      title: Infobar title
+      title: ASEAN-IFCE Resource Network
       subtitle: Subtitle
       description: About a sentence worth of description here
       button: Button text
