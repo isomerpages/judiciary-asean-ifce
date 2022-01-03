@@ -16,7 +16,8 @@ sections:
       title: ICCE
       description: An International Consortium consisting of groups and organisations
         from Europe, Asia, Australia, and the United States
-      url: /faq/
+      url: https://www.courtexcellence.com/
+      button: Find out more
   - infobar:
       title: Framework
       description: Infobar description
