@@ -37,4 +37,9 @@ sections:
         found here.
       button: LEARN MORE
       url: https://www.courtexcellence.com/resources
+  - infobar:
+      title: ICCE Members
+      description: A list of founding members and the signatories who represent the
+        ICCE, and all current members of the ICCE can be found here.
+      button: Button Text
 ---
