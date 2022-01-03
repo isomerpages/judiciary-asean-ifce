@@ -26,8 +26,11 @@ sections:
       url: https://www.courtexcellence.com/resources/the-framework
   - infobar:
       title: Court Excellence Self-Assessment Questionaire
-      description: Infobar description
-      button: Button Text
+      description: A self-evaluation process that evaluates a court’s performance
+        against seven areas of excellence and provides guidance for courts to
+        improve their performance.
+      button: LEARN MORE
+      url: https://www.courtexcellence.com/resources/self-assessment
   - resources:
       title: Media
       subtitle: Learn more
