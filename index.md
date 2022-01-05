@@ -14,8 +14,8 @@ sections:
       url: /contact-us/
   - infobar:
       title: ICCE
-      description: An International Consortium consisting of groups and organisations
-        from Europe, Asia, Australia, and the United States
+      description: "An International Consortium consisting of groups and organisations
+        from Europe, Asia, Australia, and the United States "
       url: https://www.courtexcellence.com/
       button: LEARN MORE
   - infobar:
@@ -33,8 +33,9 @@ sections:
       url: https://www.courtexcellence.com/resources/self-assessment
   - infobar:
       title: Resources
-      description: The resources needed to implement the various frameworks can be
-        found here.
+      description: Besides the IFCE, there are supplementary tools developed by the
+        consortium and other resources on court excellence contributed by ICCE
+        members.
       button: LEARN MORE
       url: https://www.courtexcellence.com/resources
   - infobar:
@@ -43,4 +44,7 @@ sections:
         ICCE, and all current members of the ICCE can be found here.
       button: LEARN MORE
       url: https://www.courtexcellence.com/members/current-members
+  - resources:
+      title: ASEAN-IFCE Resource Network
+      button: Resources Button Name
 ---
