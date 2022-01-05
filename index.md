@@ -44,7 +44,4 @@ sections:
         ICCE, and all current members of the ICCE can be found here.
       button: LEARN MORE
       url: https://www.courtexcellence.com/members/current-members
-  - resources:
-      title: ASEAN-IFCE Resource Network
-      button: Resources Button Name
 ---
