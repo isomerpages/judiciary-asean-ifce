@@ -7,11 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: ASEAN-IFCE
-      subtitle: The official website of the  ASEAN-IFCE Resource Network
-      background: /images/ASEANBANNER-Resized.jfif
-      button: Contact Us
-      url: /contact-us/
+      background: /images/HeroAsean.jfif
   - infobar:
       title: ICCE
       description: "An International Consortium consisting of groups and organisations
