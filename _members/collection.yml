@@ -2,4 +2,5 @@ collections:
   members:
     output: true
     order:
+      - Current Members.md
       - Application Form.md
