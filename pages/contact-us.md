@@ -22,8 +22,8 @@ locations:
     title: State Courts
 contacts:
   - content:
-      - phone: +65 9876 1234
-      - email: example@abc.gov.sg
-      - other: Any text here <i>including HTML</i>
+      - phone: ""
+      - email: IFCE@statecourts.gov.sg
+      - other: ""
     title: General Enquiries & Feedback
 ---
