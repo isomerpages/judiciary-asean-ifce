@@ -1,5 +1,5 @@
 collections:
-  testing-resources:
+  resources:
     output: true
     order:
       - The Framework.md
