@@ -2,7 +2,6 @@ collections:
   resources:
     output: true
     order:
-      - Example Title.md
       - The Framework.md
       - Self Assessment.md
       - Implementation.md
