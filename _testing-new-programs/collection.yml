@@ -1,4 +1,5 @@
 collections:
   testing-new-programs:
     output: true
-    order: []
+    order:
+      - Testing New Programs.md
