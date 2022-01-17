@@ -1,5 +1,0 @@
-collections:
-  newsroom:
-    output: true
-    order:
-      - Example Title.md
