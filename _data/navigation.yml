@@ -2,8 +2,8 @@ logo: /images/isomer-logo.svg
 links:
   - title: Members
     collection: members
-  - title: Resources
-    collection: resources
+  - title: Testing Resources
+    collection: testing-resources
   - title: Programs
     collection: programs
   - title: Contact Us
