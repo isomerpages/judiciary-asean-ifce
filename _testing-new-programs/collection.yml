@@ -1,0 +1,4 @@
+collections:
+  testing-new-programs:
+    output: true
+    order: []
