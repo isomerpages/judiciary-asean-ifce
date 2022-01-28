@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: International Consortium for Court Excellence
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -35,3 +35,4 @@ sections:
       button: LEARN MORE
       url: https://www.courtexcellence.com/resources
 ---
+
