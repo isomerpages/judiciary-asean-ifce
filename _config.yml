@@ -1,6 +1,6 @@
 title: International Consortium for Court Excellence
 url: ""
-favicon: /images/favicon-isomer.ico
+favicon: /images/ICCE%20Logo%20stacked_Online.jpg
 colors:
   primary-color: "#043565"
   secondary-color: "#bc944a"
@@ -53,3 +53,4 @@ plugins:
 staging: https://statecourts-ifce-staging.netlify.app
 prod: https://statecourts-ifce-prod.netlify.app
 is_government: false
+shareicon: /images/ICCE%20Logo%20stacked_Online.jpg
