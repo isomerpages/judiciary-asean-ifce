@@ -5,7 +5,7 @@ description: ""
 ---
 #### **Upcoming Programmes**
 ---
-**ICCE Virtual Conference (15-16 March 2022)**
+##### ICCE Virtual Conference (15-16 March 2022)
 
 The International Consortium for Court Excellence (ICCE) is pleased to announce a two-day virtual conference to be held from 15-16 March 2022 (SGT).
 
