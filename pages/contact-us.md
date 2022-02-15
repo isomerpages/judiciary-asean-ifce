@@ -10,7 +10,7 @@ locations:
       - Singapore 059724
     operating_hours: []
     maps_link: ""
-    title: State Courts
+    title: State Courts Singapore
 contacts:
   - content:
       - phone: ""
