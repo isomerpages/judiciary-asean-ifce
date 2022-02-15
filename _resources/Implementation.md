@@ -11,13 +11,15 @@ The International Consortium has developed a number of tools and resources to as
 
 ---
 
-#### **The 3 Basic Steps to Implementing the Framework**
+#### **Continuous Improvement Methodology**
 
 1. Self Assesment
 2. Analysis
 3. Improvement Planning and Implementation
+4. Evaluate 
 
 ---
+
 #### **Model Agenda**
 
 A Model Agenda includes an illustrative agenda and a PowerPoint slide deck for a one-day-and-a-half workshop on the Framework: 
