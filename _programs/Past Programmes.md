@@ -7,16 +7,16 @@ description: ""
 ---
 
 ```
-Past Program Title 1 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+**2nd IFCE-ASEAN Resource Network Roundtable (24 January 2022)**
+Representatives from the various ASEAN nations came together once again to elaborate on their progress in implementing the IFCE and discuss some of the challenges they face.
 ```
 ---
 ```
-Past Program Title 2  
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+**Inaugural IFCE-ASEAN Resource Network Roundtable (9 September 2021)**
+Representatives from the various ASEAN nations came together to share about the difficulties some of their jurisdictions face when attempting to implement the IFCE. Participan
 ```
 ---
 ```
-Past  Program Title 3 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+**IFCE Train-the-Trainer Workshop (8-9 April 2021)**
+This 1.5-day workshop was specially designed for officials from the ASEAN Judiciaries who will play a key role in building expertise on the IFCE in their respective courts. The participants of this workshop ultimately went on to form the ASEAN-IFCE Resource Network.
 ```
