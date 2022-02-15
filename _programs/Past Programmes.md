@@ -16,7 +16,7 @@ Representatives from the various ASEAN nations came together once again to elabo
 
 ---
 
-##### Inaugural IFCE-ASEAN Resource Network Roundtable (9 September 2021)**
+##### Inaugural IFCE-ASEAN Resource Network Roundtable (9 September 2021)
 
 Representatives from the various ASEAN nations came together to share about the difficulties some of their jurisdictions face when attempting to implement the IFCE. Participan
 
