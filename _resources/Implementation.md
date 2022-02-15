@@ -17,7 +17,7 @@ The International Consortium has developed a number of tools and resources to as
 2. Analysis
 3. Improvement Planning and Implementation
 4. Evaluate 
-
+![](/images/cycle.png)
 ---
 
 #### **Model Agenda**
