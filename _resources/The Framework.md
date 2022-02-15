@@ -9,9 +9,9 @@ The International Framework for Court Excellence is a quality management system 
 
  The Framework is the product of an international attempt to identify a process for achieving court excellence regardless of the location or size of a court or the resources or technology available to it. It uses the term “court” to refer broadly to any organization that is part of a country’s judicial system, including courts and tribunals of general, limited and special jurisdiction. 
 
-The main enhancements to the new edition are the inclusion of assessment statements relating to ethics, conduct, technology, risk management, security, data integrity, ADR and problem solving approaches. The self-assessment process and the scoring methodology have been simplified. We would like to thank the Abu Dhabi Judicial Department, the Indonesia Judiciary, and the UNDP for providing translations for the latest edition of the framework, which can be downloaded below.
+The main enhancements to the new edition are the inclusion of assessment statements relating to ethics, conduct, technology, risk management, security, data integrity, ADR and problem solving approaches. The self-assessment process and the scoring methodology have been simplified. We would like to thank  the Indonesia Judiciary, and the UNDP for providing translations for the latest edition of the framework, which can be downloaded below.
 
-[Arabic Edition](/files/ifce/Arabic-International-Framework-3rd-Edition.pdf)
+
 [Indonesian Edition](/files/ifce/Indonesian-International-Framework-3rd-Edition.pdf)
 [English Edition](/files/ifce/English-International-Framework-3rd-Edition.pdf)
 [Laos Edition](/files/ifce/Laos-International-Framework-3rd-Edition.pdf)
@@ -21,7 +21,7 @@ The main enhancements to the new edition are the inclusion of assessment stateme
 
 #### **The International Framework for Judicial Support Excellence**
 
-The Consortium has recently developed a version of the Framework aimed at Judicial Support Organisations, entitled the International Framework for Judicial Support Excellence (‘IFJSE’). Consortium members in the Affiliated Judicial Institutions membership category may wish to consider applying the IFJSE to their own organisations, particularly when courts in the same jurisdiction are utilising the International Framework for Court Excellence. 
+The Consortium has developed a version of the Framework aimed at Judicial Support Organisations, entitled the International Framework for Judicial Support Excellence (‘IFJSE’). Consortium members in the Affiliated Judicial Institutions membership category may wish to consider applying the IFJSE to their own organisations, particularly when courts in the same jurisdiction are utilising the International Framework for Court Excellence. 
 
 Judicial support organisations are those bodies that provide broad support services to courts as well as specific services such as research, performance management, records management, education, technology, finance, asset or personnel services. These types of organisations play a significant role in supporting the administration of justice and invariably have indirect community accountability as well as direct accountability to their ‘client’ courts, judicial officers and court administrators.
 
