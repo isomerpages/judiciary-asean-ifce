@@ -25,7 +25,8 @@ The Global Measures of Court Performance include eleven focused, clear, and acti
 
 
 
-[English Edition](/files/ifce/English-International-Framework-3rd-Edition.pdf)
+
+[English Edition ](/files/Global%20Measures%20of%20Court%20Performance.pdf)
 
 
 ---
