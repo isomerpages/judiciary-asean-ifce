@@ -19,6 +19,17 @@ The main enhancements to the new edition are the inclusion of assessment stateme
 
 ---
 
+#### **Global Measures of Court Performance**
+
+The Global Measures of Court Performance include eleven focused, clear, and actionable core court performance measures aligned with the values and areas of court excellence of the Framework.
+
+
+
+[English Edition](/files/ifce/English-International-Framework-3rd-Edition.pdf)
+
+
+---
+
 #### **The International Framework for Judicial Support Excellence**
 
 The Consortium has developed a version of the Framework aimed at Judicial Support Organisations, entitled the International Framework for Judicial Support Excellence (‘IFJSE’). Consortium members in the Affiliated Judicial Institutions membership category may wish to consider applying the IFJSE to their own organisations, particularly when courts in the same jurisdiction are utilising the International Framework for Court Excellence. 
