@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: ASEAN-IFCE Resource Network
+agency_name: The ASEAN-IFCE Resource Network
 contacts:
   - content:
       - phone: ""
