@@ -2,4 +2,4 @@ collections:
   members:
     output: true
     order:
-      - Application Form.md
+      - Application Form for ICCE.md
