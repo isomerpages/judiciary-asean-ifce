@@ -2,5 +2,4 @@ collections:
   members:
     output: true
     order:
-      - Example Title.md
       - Application Form.md
