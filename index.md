@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: International Consortium for Court Excellence
+title: "ASEAN-IFCE Resource Network Portal "
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -57,3 +57,4 @@ sections:
         International Consortium for Court Excellence, and all current members
         of the ICCE can be found here.
 ---
+
