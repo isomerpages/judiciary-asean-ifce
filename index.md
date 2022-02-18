@@ -14,6 +14,13 @@ sections:
         Declaration at the 8th CACJ Meeting to build expertise on court
         excellence in ASEAN.
   - infobar:
+      title: Council of ASEAN Chief Justices (CACJ)
+      description: The CACJ is a forum for ASEAN judiciaries to build closer
+        relations, exchange knowledge, and discuss the common issues that
+        concern them.
+      button: "LEARN MORE "
+      url: https://cacj-ajp.org/
+  - infobar:
       title: ICCE
       description: "The International Consortium for Court Excellence includes
         prominent judiciaries and judicial institutions from Europe, Asia,
