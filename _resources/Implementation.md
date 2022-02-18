@@ -11,18 +11,10 @@ The International Consortium has developed a number of tools and resources to as
 
 ---
 
-#### **Continuous Improvement Methodology**
-
-1. Self Assesment
-2. Analysis
-3. Improvement Planning and Implementation
-4. Evaluate 
-![](/images/cycle.png)
----
 
 #### **Model Agenda**
 
-A Model Agenda includes an illustrative agenda and a PowerPoint slide deck for a one-day-and-a-half workshop on the Framework: 
+A Model Agenda includes an illustrative agenda for a one-day-and-a-half workshop on the Framework:
 
 **Day 1 (Half Day)**
 * Unit 1: Introduction to the IFCE
@@ -39,6 +31,6 @@ A Model Agenda includes an illustrative agenda and a PowerPoint slide deck for a
 ---
 
 #### **Train the Trainers Guide**
-Teaching the International Framework for Court Excellence is a “how-to” (“train the trainers”) guide for instructors, facilitators, organizers, and program developers of a one-and-a-half training program on the Framework. It prepares the potential trainers to effectively teach a workshop covering the concepts and tools of the Framework.
+Teaching the International Framework for Court Excellence is a “how-to” guide for instructors, facilitators, organizers, and program developers of a one-day-and-a-half training program on the Framework. It prepares the potential trainers to effectively teach a workshop covering the concepts and tools of the Framework.
 
 [Download PDF](/files/implementing-ifce/Implementing-IFCE.pdf)
