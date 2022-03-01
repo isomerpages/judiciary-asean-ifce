@@ -4,6 +4,7 @@ permalink: /programs/past-programmes
 description: ""
 ---
 #### **Past Programmes**
+###### For network members, please access  [HERE](https://tinyurl.com/ASEAN-IFCE-Network-Materials) for past programmes materials
 ---
 
 
