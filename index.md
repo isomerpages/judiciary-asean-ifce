@@ -52,7 +52,7 @@ sections:
       title: ICCE Members
       description: A list of founding members and the signatories who represent the
         ICCE, and all current members of the ICCE can be found here.
-      button: Learn More
+      button: LEARN MORE
       url: https://www.courtexcellence.com/members/current-members
 ---
 
