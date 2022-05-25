@@ -53,8 +53,6 @@ sections:
       description: A list of founding members and the signatories who represent the
         ICCE, and all current members of the ICCE can be found here.
       button: Learn More
-      url: A list of founding members and the signatories who represent the
-        International Consortium for Court Excellence, and all current members
-        of the ICCE can be found here.
+      url: https://www.courtexcellence.com/members/current-members
 ---
 
