@@ -8,6 +8,12 @@ description: ""
 
 ---
 
+##### 3rd IFCE-ASEAN Resource Network Roundtable (30 May 2022)
+
+Representatives from the various ASEAN nations came together once again to elaborate on their progress in implementing the IFCE and discuss some of the challenges they face.
+
+---
+
 ##### ICCE Virtual Conference (15-16 March 2022)
 
 The International Consortium for Court Excellence (ICCE) is pleased to announce a two-day virtual conference to be held from 15-16 March 2022 (GMT+8).
