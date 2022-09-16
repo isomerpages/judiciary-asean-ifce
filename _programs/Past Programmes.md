@@ -8,7 +8,7 @@ description: ""
 
 ---
 
-##### 3rd IFCE-ASEAN Resource Network Roundtable (30 May 2022)
+##### 3rd ASEAN-IFCE Resource Network Roundtable (30 May 2022)
 
 Representatives from the various ASEAN nations came together once again to elaborate on their progress in implementing the IFCE and discuss some of the challenges they face.
 
@@ -22,13 +22,13 @@ This free online conference will explore how courts in Asia, Australia, Europe, 
 
 ---
 
-##### 2nd IFCE-ASEAN Resource Network Roundtable (24 January 2022)
+##### 2nd ASEAN-IFCE Resource Network Roundtable (24 January 2022)
 
 Representatives from the various ASEAN nations came together once again to elaborate on their progress in implementing the IFCE and discuss some of the challenges they face.
 
 ---
 
-##### Inaugural IFCE-ASEAN Resource Network Roundtable (9 September 2021)
+##### Inaugural ASEAN-IFCE Resource Network Roundtable (9 September 2021)
 
 Representatives from the various ASEAN nations came together to share about the difficulties some of their jurisdictions face when attempting to implement the IFCE. Participants shared knowledge and offered different perspectives on how to best use the IFCE.
 
