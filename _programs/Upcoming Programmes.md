@@ -6,6 +6,11 @@ description: ""
 #### **Upcoming Programmes**
 
 ---
+
+##### 4th ASEAN-IFCE Resource Network Roundtable (26 September 2022)
+Representatives from the various ASEAN nations will gather to provide updates on their court excellence journeys and share knowledge on implementing the IFCE.
+
+---
 ##### Judicial Executive Programme (14 Novemeber 2022 - 2 December 2022)
 
 This high-level leadership and management programme jointly organised by Singapore Judicial College and Singapore Management University Law Academy is specially designed for current leaders in the judiciary and potential key appointment holders desiring to be visionary and strategic leaders who inspire innovation, lead digital transformation, and drive operational excellence in courts to achieve better outcomes.
