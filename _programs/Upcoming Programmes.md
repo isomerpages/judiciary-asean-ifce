@@ -18,7 +18,7 @@ Jointly organised by the State Courts and the Singapore Academy of Law, the Sent
 
 For more information on the Sentencing Conference 2022, including programme details and registration fees, please download the brochure below.
 
-
+To register, please click [here]([https://sal.org.sg/events/sentencing-conference-2022]).
 
 ---
 ##### Judicial Executive Programme (14 Novemeber 2022 - 2 December 2022)
