@@ -20,6 +20,8 @@ For more information on the Sentencing Conference 2022, including programme deta
 
 To register, please click [here](https://sal.org.sg/events/sentencing-conference-2022).
 
+[Sentencing Conference 2022 Programme Booklet.pdf](https://github.com/isomerpages/statecourts-ifce/files/9612194/Sentencing.Conference.2022.Programme.Booklet.pdf)
+
 ---
 ##### Judicial Executive Programme (14 Novemeber 2022 - 2 December 2022)
 
