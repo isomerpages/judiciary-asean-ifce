@@ -12,6 +12,7 @@ description: ""
 Representatives from the various ASEAN nations will gather to provide updates on their court excellence journeys and share knowledge on implementing the IFCE.
 
 ---
+
 ##### Sentencing Conference 2022 (31 October 2022 - 1 November 2022)
 
 Jointly organised by the State Courts and the Singapore Academy of Law, the Sentencing Conference 2022 will focus on the building of instructive and communicative sentencing frameworks, the use of artificial intelligence as a tool in sentencing, perennial issues of sentencing considerations, and sentencing options with respect to special classes of offenders such as youths.
@@ -23,6 +24,7 @@ To register, please click [here](https://sal.org.sg/events/sentencing-conference
 [Sentencing Conference 2022 Programme Booklet.pdf](https://github.com/isomerpages/statecourts-ifce/files/9612194/Sentencing.Conference.2022.Programme.Booklet.pdf)
 
 ---
+
 ##### Judicial Executive Programme (14 Novemeber 2022 - 2 December 2022)
 
 This high-level leadership and management programme jointly organised by Singapore Judicial College and Singapore Management University Law Academy is specially designed for current leaders in the judiciary and potential key appointment holders desiring to be visionary and strategic leaders who inspire innovation, lead digital transformation, and drive operational excellence in courts to achieve better outcomes.
