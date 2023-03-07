@@ -1,9 +1,8 @@
 ---
 title: Application Form for ICCE
-permalink: /members/application-form
+permalink: /members/application-form/
 description: ""
 ---
-
 #### **Becoming a Member for the International Consortium for Court Excellence**
 ---
 
@@ -19,7 +18,6 @@ To become a member, organisations should email the Executive Committee via the I
 
 | ![Australasian Institute of Judicial Administration of Australia](/images/icce-founding-members/aija.jpg) | ![National Center for State Courts of the US](/images/icce-founding-members/ncsc.jpg)| ![Federal Judicial Center of the US](/images/icce-founding-members/fjc.jpg) | ![State Courts of Singapore](/images/icce-founding-members/statecourts.jpg)|
 | -------- | -------- | -------- | ---------|
-| **Mr. Laurence Glanfield** |**Daniel J. Hall** |**Beth Wiggins**  | **Victor Yeo**|
-| Deputy President | Vice President, Court Services Division | Research Division | Principal District Judge |
-|Australasian Institute of Judicial Administration | National Center for State Courts 707 Seventeenth Street, Suite 2900 Denver, Colorado 80202 |1 Columbus Circle, NE Washington, DC 20002-8003 | 1 Havelock Square Singapore 059724  |
-| l.glanfield@hotmail.com | djhall@ncsc.org | bwiggins@fjc.gov | Victor_YEO@statecourts.gov.sg |
+|  **Laurence Glanfield** | **Timothy Hughes** / **Isabelle Laferrière Schrank** |**Beth Wiggins**  | **Victor Yeo**|
+| Deputy President | Sr. Legal Counsel & Director of Programs/ Program Manager, International Programs | Project Director | Principal District Judge |
+| l.glanfield@hotmail.com |  -  | bwiggins@fjc.gov | Victor_YEO@judiciary.gov.sg |
