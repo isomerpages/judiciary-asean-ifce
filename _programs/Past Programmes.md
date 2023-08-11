@@ -1,6 +1,6 @@
 ---
 title: Past Programmes
-permalink: /programs/past-programmes
+permalink: /programs/past-programmes/
 description: ""
 ---
 #### **Past Programmes**
@@ -8,9 +8,15 @@ description: ""
 
 ---
 
+##### 6th ASEAN-IFCE Resource Network Roundtable (24 May 2023)
+
+Representatives from the various ASEAN nations gathered to learn from one another on implementing the IFCE and discuss the latest developments in court administration.
+
+---
+
 ##### 5th ASEAN-IFCE Resource Network Roundtable (30 January 2023)
 
-Representatives from the various ASEAN nations will gather to provide updates on their court excellence journeys and share knowledge on implementing the IFCE. They will also discuss the role of technology in delivering justice.
+Representatives from the various ASEAN nations gathered to provide updates on their court excellence journeys and share knowledge on implementing the IFCE. They also discussed the role of technology in delivering justice.
 
 ---
 
@@ -18,7 +24,7 @@ Representatives from the various ASEAN nations will gather to provide updates on
 
 This high-level leadership and management programme jointly organised by Singapore Judicial College and Singapore Management University Law Academy was specially designed for current leaders in the judiciary and potential key appointment holders desiring to be visionary and strategic leaders who inspire innovation, lead digital transformation, and drive operational excellence in courts to achieve better outcomes.
 
-Boasting a unique pedagogy, the programme featured a judicial training attachment, contextualised judicial training, expert instruction, peer engagement, and learning journeys. For more details on the programme, please download the brochure below.
+Boasting a unique pedagogy, the programme featured a judicial training attachment, contextualised judicial training, expert instruction, peer engagement, and learning journeys.
 
 ---
 
@@ -30,7 +36,7 @@ Jointly organised by the State Courts and the Singapore Academy of Law, the Sent
 
 ##### 4th ASEAN-IFCE Resource Network Roundtable (26 September 2022)
 
-Representatives from the various ASEAN nations will gather to provide updates on their court excellence journeys and share knowledge on implementing the IFCE.
+Representatives from the various ASEAN nations gathered to provide updates on their court excellence journeys and share knowledge on implementing the IFCE.
 
 ---
 
@@ -42,9 +48,9 @@ Representatives from the various ASEAN nations came together once again to elabo
 
 ##### ICCE Virtual Conference (15-16 March 2022)
 
-The International Consortium for Court Excellence (ICCE) is pleased to announce a two-day virtual conference to be held from 15-16 March 2022 (GMT+8).
+The International Consortium for Court Excellence (ICCE) organised a two-day virtual conference on 15-16 March 2022 (GMT+8).
 
-This free online conference will explore how courts in Asia, Australia, Europe, North America, and the Pacific Islands have embraced new modes of operations in our new endemic world. International panellists will address the implications on the court workforce, court management practices and ultimately public trust and confidence, and share global best practices to better help courts pursue excellence in the face of these new challenges
+This free online conference explored how courts in Asia, Australia, Europe, North America, and the Pacific Islands have embraced new modes of operations in our new endemic world. International panellists addressed the implications on the court workforce, court management practices and ultimately public trust and confidence, and shared global best practices to better help courts pursue excellence in the face of these new challenges
 
 ---
 
