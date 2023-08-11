@@ -8,6 +8,11 @@ description: ""
 
 ---
 
+
+##### 6th ASEAN-IFCE Resource Network Roundtable (24 May 2023)
+
+
+
 ##### 5th ASEAN-IFCE Resource Network Roundtable (30 January 2023)
 
 Representatives from the various ASEAN nations gathered to provide updates on their court excellence journeys and share knowledge on implementing the IFCE. They also discussed the role of technology in delivering justice.
