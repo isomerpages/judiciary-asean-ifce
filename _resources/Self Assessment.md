@@ -1,6 +1,6 @@
 ---
 title: Self Assessment
-permalink: /resources/self-assessment
+permalink: /resources/self-assessment/
 description: ""
 ---
 #### **Self-Assessment**

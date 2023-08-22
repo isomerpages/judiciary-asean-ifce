@@ -1,6 +1,6 @@
 ---
 title: Implementation
-permalink: /resources/implementation
+permalink: /resources/implementation/
 description: ""
 ---
 #### **Implementing the Framework**

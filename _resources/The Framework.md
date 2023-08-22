@@ -1,6 +1,6 @@
 ---
 title: The Framework
-permalink: /resources/the-framework
+permalink: /resources/the-framework/
 description: ""
 ---
 #### **The Third Edition of the International Framework for Court Excellence (May 2020)**
