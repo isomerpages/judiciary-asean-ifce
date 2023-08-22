@@ -50,7 +50,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-staging: https://statecourts-ifce-staging.netlify.app
-prod: https://statecourts-ifce-prod.netlify.app
+staging: https://staging.d2lh8cl8kkcj5c.amplifyapp.com/
+prod: https://master.d2lh8cl8kkcj5c.amplifyapp.com/
 is_government: false
 shareicon: /images/favicon-isomer.ico
