@@ -7,7 +7,7 @@ description: ""
 
 The International Consortium has developed a number of tools and resources to assist court in taking these steps. Click below to download PDF
 
-[Download PDF](/files/implementing-ifce/Implementing-IFCE.pdf)
+[Download PDF](/files/implementing-ifce/implementing-ifce.pdf)
 
 ---
 
@@ -33,4 +33,4 @@ A Model Agenda includes an illustrative agenda for a one-day-and-a-half workshop
 #### **Train the Trainers Guide**
 Teaching the International Framework for Court Excellence is a “how-to” guide for instructors, facilitators, organizers, and program developers of a one-day-and-a-half training program on the Framework. It prepares the potential trainers to effectively teach a workshop covering the concepts and tools of the Framework.
 
-[Download PDF](/files/implementing-ifce/Implementing-IFCE.pdf)
+[Download PDF](/files/implementing-ifce/implementing-ifce.pdf)
