@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/HeroAsean.jfif
+      background: /images/heroasean.jfif
   - infobar:
       title: ASEAN-IFCE Resource Network
       description: The ASEAN-IFCE Resource Network was formed pursuant to the Hanoi
