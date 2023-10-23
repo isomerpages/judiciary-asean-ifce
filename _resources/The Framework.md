@@ -1,6 +1,6 @@
 ---
 title: The Framework
-permalink: /resources/the-framework
+permalink: /resources/the-framework/
 description: ""
 ---
 #### **The Third Edition of the International Framework for Court Excellence (May 2020)**
@@ -12,10 +12,10 @@ The International Framework for Court Excellence is a quality management system 
 The main enhancements to the new edition are the inclusion of assessment statements relating to ethics, conduct, technology, risk management, security, data integrity, ADR and problem solving approaches. The self-assessment process and the scoring methodology have been simplified. We would like to thank  the Indonesia Judiciary, and the UNDP for providing translations for the latest edition of the framework, which can be downloaded below.
 
 
-[Indonesian Edition](/files/ifce/Indonesian-International-Framework-3rd-Edition.pdf)
-[English Edition](/files/ifce/English-International-Framework-3rd-Edition.pdf)
-[Laos Edition](/files/ifce/Laos-International-Framework-3rd-Edition.pdf)
-[Thai Edition](/files/ifce/Thai-International-Framework-3rd-Edition.pdf)
+[Indonesian Edition](/files/ifce/indonesian-international-framework-3rd-edition.pdf)
+[English Edition](/files/ifce/english-international-framework-3rd-edition.pdf)
+[Laos Edition](/files/ifce/laos-international-framework-3rd-edition.pdf)
+[Thai Edition](/files/ifce/thai-international-framework-3rd-edition.pdf)
 
 ---
 
@@ -26,7 +26,7 @@ The Global Measures of Court Performance include eleven focused, clear, and acti
 
 
 
-[English Edition ](/files/Global%20Measures%20of%20Court%20Performance.pdf)
+[English Edition ](/files/global%20measures%20of%20court%20performance.pdf)
 
 
 ---
@@ -39,4 +39,4 @@ Judicial support organisations are those bodies that provide broad support servi
 
 The IFJSE is based on the IFCE and follows the same structure as the ‘Thinking of Implementing the International Framework for Court Excellence’ publication. However, the Self-Assessment Questionnaire in the IFJSE is substantially different and is not designed to be used by courts or tribunals. New IFJSE checklists have been added for specific service delivery functions such as education, research, information technology, finance, asset management, human resources and labour relations. The purpose of the IFJSE, like the IFCE, is to assist organisations identify areas of their operations that may require improvement and to develop improvement plans to guide implementing change. The IFJSE is available for download in the link below.
 
-[English Edition](/files/ifjse/International%20Framework%20for%20Judicial%20Support%20Excellence.pdf)
+[English Edition](/files/ifjse/international%20framework%20for%20judicial%20support%20excellence.pdf)

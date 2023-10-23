@@ -1,4 +1,4 @@
 ---
 title: Example Pages
-permalink: /example-pages
+permalink: /example-pages/
 ---
