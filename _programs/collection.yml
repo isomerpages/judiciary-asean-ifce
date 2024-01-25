@@ -1,0 +1,6 @@
+collections:
+  programs:
+    output: true
+    order:
+      - Upcoming Programmes.md
+      - Past Programmes.md

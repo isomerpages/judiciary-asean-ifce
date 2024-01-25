@@ -1,0 +1,10 @@
+logo: /images/cacj-icce square coloured.png
+links:
+  - title: Members
+    collection: members
+  - title: Resources
+    collection: resources
+  - title: "Programmes "
+    collection: programs
+  - title: Contact Us
+    url: /contact-us/
