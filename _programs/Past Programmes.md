@@ -2,27 +2,33 @@
 title: Past Programmes
 permalink: /programs/past-programmes/
 description: ""
+variant: markdown
 ---
 #### **Past Programmes**
 ###### For network members, please access  [HERE](https://tinyurl.com/ASEAN-IFCE-Network-Materials) for past programmes materials
 ---
 
+##### 8th ASEAN-IFCE Resource Network Roundtable (6 Feb 2024)
+
+Representatives from the various ASEAN nations gathered to learn from one another on implementing the IFCE and discuss the latest developments in court administration.  The session's topic of discussion was training and development of court workforce.
+
+---
+
 ##### 7th ASEAN-IFCE Resource Network Roundtable (19 Sep 2023)
 
-Representatives from the various ASEAN nations gathered to learn from one another on implementing the IFCE and discuss the latest developments in court administration.
-
+Representatives from the various ASEAN nations gathered to learn from one another on implementing the IFCE and discuss the latest developments in court administration.  The session's topic of discussion was artificial intelligence (AI) applications in the judiciary.
 
 ---
 
 ##### 6th ASEAN-IFCE Resource Network Roundtable (24 May 2023)
 
-Representatives from the various ASEAN nations gathered to learn from one another on implementing the IFCE and discuss the latest developments in court administration.
+Representatives from the various ASEAN nations gathered to learn from one another on implementing the IFCE and discuss the latest developments in court administration.  Members continued with the previous session's discussion on the role of technology in delivering justice.
 
 ---
 
 ##### 5th ASEAN-IFCE Resource Network Roundtable (30 January 2023)
 
-Representatives from the various ASEAN nations gathered to provide updates on their court excellence journeys and share knowledge on implementing the IFCE. They also discussed the role of technology in delivering justice.
+Representatives from the various ASEAN nations gathered to provide updates on their court excellence journeys and share knowledge on implementing the IFCE. The session's topic of discussion was the role of technology in delivering justice.
 
 ---
 
