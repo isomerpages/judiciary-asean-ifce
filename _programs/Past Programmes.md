@@ -8,6 +8,12 @@ variant: markdown
 ###### For network members, please access  [HERE](https://tinyurl.com/ASEAN-IFCE-Network-Materials) for past programmes materials
 ---
 
+##### 9th ASEAN-IFCE Resource Network Roundtable (3 Jul 2024)
+
+Representatives from the various ASEAN nations gathered to learn from one another on implementing the IFCE and discuss the latest developments in court administration.  The session's topic of discussion was alternative dispute resolution.
+
+---
+
 ##### 8th ASEAN-IFCE Resource Network Roundtable (6 Feb 2024)
 
 Representatives from the various ASEAN nations gathered to learn from one another on implementing the IFCE and discuss the latest developments in court administration.  The session's topic of discussion was training and development of court workforce.
