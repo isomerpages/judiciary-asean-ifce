@@ -7,6 +7,12 @@ variant: tiptap
 <h4><strong>Past Programmes</strong></h4>
 <h6>For network members, please access <a href="https://tinyurl.com/ASEAN-IFCE-Network-Materials" rel="noopener noreferrer nofollow" target="_blank">HERE</a> for past programmes materials</h6>
 <hr>
+<h5>12th ASEAN-IFCE Resource Network Roundtable (26 May 2025)</h5>
+<p>Representatives from the various ASEAN nations gathered to learn from
+one another on implementing the IFCE and discuss the latest developments
+in court administration. Members continued with the previous session's
+discussion on risk management.</p>
+<hr>
 <h5>11th ASEAN-IFCE Resource Network Roundtable (6 Feb 2025)</h5>
 <p>Representatives from the various ASEAN nations gathered to learn from
 one another on implementing the IFCE and discuss the latest developments
