@@ -81,20 +81,6 @@ form. The application form can be downloaded below.</p>
 <p>Deputy Chief Policy Officer</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>l.glanfield@hotmail.com</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>bwiggins@fjc.gov</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Victor_YEO@judiciary.gov.sg</p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
