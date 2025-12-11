@@ -16,8 +16,9 @@ ceases to meet the membership's criteria.</p>
 <p>To become a member, organisations should email the Executive Committee
 via the ICCE Secretariat at ifce@aija.org.au with the filled application
 form. The application form can be downloaded below.</p>
-<p><a href="/files/application-form/icce%20membership%20application.pdf" rel="noopener noreferrer nofollow" target="_blank">Application Form</a>
+<p><a href="/files/application-form/New_ICCE_Membership_Form_October_2025_Final.pdf" rel="noopener nofollow" target="_blank">ICCE Membership Application Form</a>
 </p>
+<p></p>
 <h4><strong>ICCE Founding Members</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
