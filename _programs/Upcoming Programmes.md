@@ -5,9 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h4><strong>Upcoming Programmes</strong></h4>
-<h5>14th ASEAN-IFCE Resource Network Roundtable (Date to be confirmed)</h5>
+<h5>14th ASEAN-IFCE Resource Network Roundtable (9 Mar 2026)</h5>
 <p>Representatives from the various ASEAN nations will gather to learn from
 one another on implementing the IFCE and discuss the latest developments
-in court administration.</p>
+in court administration. Members will continue with the previous session's
+discussion on Access to Justice.</p>
 <hr>
 <p></p>
